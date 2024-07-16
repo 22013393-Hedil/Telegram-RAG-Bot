@@ -6,3 +6,6 @@ datasets
 faiss-cpu
 faiss-gpu
 langchain-community
+aiogram
+qdrant-client
+accelerate
