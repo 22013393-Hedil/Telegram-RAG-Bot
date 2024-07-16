@@ -7,5 +7,7 @@ faiss-cpu
 faiss-gpu
 langchain-community
 aiogram
-qdrant-client
 accelerate
+asyncio
+nest_asyncio
+python-telegram-bot
